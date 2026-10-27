@@ -1,0 +1,9 @@
+data/
+*.npz
+*.dat
+*.hea
+*.zip
+__pycache__/
+*.pyc
+.vscode/
+.idea/
